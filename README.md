@@ -1,50 +1,81 @@
 # Hi, I'm Ahmet Yuşa Işık 👋
 
-I am a Software Engineering student at Kayseri University.  
-I have completed my 3rd year and will start my 4th year in September 2026.
+I am a Software Engineering student at Kayseri University, focusing on high-performance backend systems, relational database management, and neural data processing pipelines. 
 
-I am currently improving myself in backend development, REST API design, database management, and basic machine learning. I enjoy building small but complete projects to strengthen my technical foundation and gain practical software development experience.
+I apply strict algorithmic logic to data preprocessing, API design, and machine learning models to build secure, scalable solutions.
 
-## 🛠️ Technologies & Skills
+---
 
-**Programming:** Python, C, C++, C#, PHP, JavaScript  
-**Web:** HTML, CSS  
-**Backend:** Node.js, Express.js, REST API  
-**Database:** MSSQL, PostgreSQL  
-**Tools:** Git, GitHub  
-**Fields:** Algorithms, data preprocessing, basic machine learning
+### 🧠 Core Expertise & Engineering Focus
 
-## 🚀 Featured Projects
+* **Data Engineering & BCI:** Developing algorithms for feature extraction and pattern recognition from complex brainwave (EEG) data using Python, NumPy, and Scikit-learn.
+* **Backend Systems & Architecture:** Creating transactional REST APIs, dynamic analytics endpoints, and optimized relational database schemas.
+* **Software Craftsmanship:** Writing clean, testable, and maintainable code with a strong emphasis on data integrity and performance.
 
-### University Research Data Management API
-A REST API project developed with Node.js, Express.js, and PostgreSQL for managing university departments, researchers, and research projects.
+---
 
-- Designed relational database tables with primary key and foreign key relationships
-- Implemented JOIN queries and data integrity controls
-- Created analytics endpoints for project count, total budget, and active projects
-- Used Git and GitHub for version control
+### 🛠️ Tech Stack & Tools
 
-🔗 Repository: [university-research-data-management-api](https://github.com/ayusaisik/university-research-data-management-api)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" /><br /><b>Python</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" /><br /><b>C</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" /><br /><b>C++</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#" /><br /><b>C#</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JS" /><br /><b>JavaScript</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /><br /><b>Node.js</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /><br /><b>PostgreSQL</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mssql" width="40" height="40" alt="MSSQL" /><br /><b>MSSQL</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br /><b>Git</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /><br /><b>GitHub</b>
+    </td>
+  </tr>
+</table>
 
-### Fake News Detection with MATLAB
-A machine learning project for detecting fake news using text preprocessing, TF-IDF feature extraction, and classification techniques.
+---
 
-- Worked with real and fake news datasets
-- Applied text preprocessing and feature extraction
-- Trained and evaluated a machine learning model
-- Practiced data analysis and model interpretation
+### 📈 Metrics & Language Distribution
 
-🔗 Repository: [fake-news-detection-matlab](https://github.com/ayusaisik/fake-news-detection-matlab)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusaisik&layout=compact&theme=dark&hide_border=true&langs_count=5" alt="Ahmet's Top Languages" />
+</p>
 
-## 🎯 Current Focus
+---
 
-- Backend development with Node.js and Express.js
-- PostgreSQL and relational database design
-- REST API development
-- Clean code and project structure
-- Basic machine learning applications
+### 🎯 2026 Development Path
 
-## 📫 Contact
+* **Deepening Expertise:** Advanced relational database query optimization and clean backend architecture patterns.
+* **Applied AI:** Streamlining signal preprocessing and integrating trained ML pipelines directly into backend microservices.
 
-- Email: ayusaisik@gmail.com
-- GitHub: [github.com/ayusaisik](https://github.com/ayusaisik)
+---
+
+### 📫 Connect with Me
+
+* **Email:** ayusaisik@gmail.com
+* **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+
+<br />
+
+---
+_Note: My core engineering projects, including the BCI Signal Processing Research and the University Research Data Management API, are pinned below._
